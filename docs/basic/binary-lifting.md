@@ -1,4 +1,4 @@
-author: Ir1d, ShadowsEpic, Fomalhauthmj, siger-young, MingqiHuang, Xeonacid, hsfzLZH1, orzAtalod, NachtgeistW
+author: Ir1d, ShadowsEpic, Fomalhauthmj, siger-young, MingqiHuang, Xeonacid, hsfzLZH1, orzAtalod, NachtgeistW，juruoysb
 
 本页面将简要介绍倍增法。
 
@@ -109,3 +109,11 @@ RMQ 是 Range Maximum/Minimum Query 的缩写，表示区间最大（最小）�
       printf("%d\n", ans);
     }
     ```
+    
+### 习题
+
+-   [洛谷 P7167 - [eJOI2020 Day1] Fountain](https://www.luogu.com.cn/problem/P7167)
+-   [洛谷 P3509 - [POI2010] ZAB-Frog](https://www.luogu.com.cn/problem/P3509)
+-   [洛谷 P5151 - HKE与他的小朋友](https://www.luogu.com.cn/problem/P5151)
+-   [洛谷 P4155 - [SCOI2015] 国旗计划](https://www.luogu.com.cn/problem/P4155)
+-   [洛谷 P6648 - [CCC2019] Triangle: The Data Structure](https://www.luogu.com.cn/problem/P6648)
